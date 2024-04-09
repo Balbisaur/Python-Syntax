@@ -5,6 +5,7 @@ monsters = '20'
 
 my_sum = 15 + 6 + 7 + 20
 print(my_sum)
-
+#48
 my_sum += 36
 print('addition assign:', my_sum)
+#84
